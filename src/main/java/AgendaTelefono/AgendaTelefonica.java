@@ -19,7 +19,7 @@ public class AgendaTelefonica {
 
         do {
 
-            System.out.println("\n===== AGENDA TELEFONICA =====");
+            System.out.println("===== AGENDA TELEFONICA =====");
             System.out.println("1. Agregar contacto");
             System.out.println("2. Buscar por nombre");
             System.out.println("3. Buscar por correo");
